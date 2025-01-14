@@ -1,0 +1,29 @@
+# Python specific files
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+myenv/
+
+# macOS / Linux system files
+.DS_Store
+*.swp
+*.swo
+.cache/
+*.bak
+
+# Databases
+*.db
+
+# VSCode settings
+.vscode/
+
+# backend tempdata
+backend/*.json
+
+# environmental variables
+backend/.env
+frontend/.env
